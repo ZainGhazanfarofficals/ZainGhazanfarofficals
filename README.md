@@ -1,5 +1,8 @@
+<img src="https://img.freepik.com/premium-vector/full-stack-developer-flat-illustration-suitable-web-banners-infographics-book-social-media-other-graphic-assets_210682-78.jpg?w=2000"/>
+
 <h1 align="center">Hi 👋, I'm Zain Ghazanfar</h1>
 <h3 align="center">A passionate FullStack Developer with Frontend focus position</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 - 🔭 I’m currently working on [Dev-Assemble](https://github.com/ZainGhazanfarofficals/dev-assemble.git)
 
